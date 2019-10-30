@@ -39,7 +39,7 @@ If you need any help, please contact us at team@hackclub.com or on our [Slack](w
 [3]: https://help.github.com/articles/fork-a-repo/
 [4]: https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 
-## Banners
+## Banners:
 
 Now you can add a Hack Club banner to your club or personal website! Just copy and paste one of these snippets of code into your site's HTML.
 
